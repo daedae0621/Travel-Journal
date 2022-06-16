@@ -5,7 +5,7 @@ The project is based on Scrimba's React Course [Section 2 Solo Project](https://
 
 [Live Preview](https://daedae0621.github.io/Travel-Journal/)
 
-![This is an image]()
+![This is an image](https://github.com/daedae0621/Travel-Journal/blob/master/Travel-Journal.png)
 
 ## Technologies
 - HTML
