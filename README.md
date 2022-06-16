@@ -13,4 +13,7 @@ The project is based on Scrimba's React Course [Section 2 Solo Project](https://
 - React
 
 ## Resource
-[Figma File](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2%3A2)
+- [Figma File](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2%3A2)
+- [Font Awesome](https://fontawesome.com/)
+- [ionicons](https://ionic.io/ionicons)
+
